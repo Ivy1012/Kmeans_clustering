@@ -1,1 +1,1 @@
-# n
+# test_kmeans.py aims to test a 2-dimension matrix using kmeans clustering from the sklearn module, testSet is the corresponding test data used in test_kmeans.py. Specific illustrations and annotation is included in the file.
